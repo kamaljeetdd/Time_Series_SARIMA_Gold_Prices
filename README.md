@@ -118,7 +118,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Developed by **\[Kamal Jeet]**
 📧 [your.email@example.com](kamaljeetdd@gmail.com)
-🌐 [github.com/your-username](https://github.com/kamaljeetdd/Time_Series_SARIMA_Gold_Prices/)
+🌐 [github.com/your-username](https://github.com/kamaljeetdd/Time_Series_ARIMA/SARIMA_Gold_Prices/)
 
 ---
 
